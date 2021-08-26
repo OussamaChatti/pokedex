@@ -38,13 +38,9 @@
 }
 h1
 {
-        font-family: 'Rampart One', cursive;
-        color : red;
-        font-size : 72px;
-        font-weight : bold;
-        -webkit-text-fill-color: white;
-}
-App {
- background-image: linear-gradient(to right, #16BFFD, red);
-
+font-family: 'Rampart One', cursive;
+color : red;
+font-size : 72px;
+font-weight : bold;
+-webkit-text-fill-color: white;
 }
